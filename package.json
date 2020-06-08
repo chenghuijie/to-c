@@ -1,17 +1,20 @@
 {
-  "name": "to-c",
+  "name": "try-c",
   "description": "demo for npm",
   "repository": {
     "type": "git",
-    "url": "git@github.com:chenghuijie/to-c.git"
+    "url": "git@github.com:chenghuijie/try-c.git"
   },
   "author": "chenghuijie",
   "license": "MIT",
-  "homepage": "https://github.com/chenghuijie/to-c",
+  "homepage": "https://github.com/chenghuijie/try-c",
   "bugs": {
-    "url": "https://github.com/chenghuijie/to-c/issues"
+    "url": "https://github.com/chenghuijie/try-c/issues"
   },
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "try-a": "3",
+    "try-d": "2"
+  },
   "version": "0.0.0"
 }
