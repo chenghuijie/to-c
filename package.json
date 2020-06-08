@@ -1,0 +1,17 @@
+{
+  "name": "to-c",
+  "description": "demo for npm",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:chenghuijie/to-c.git"
+  },
+  "author": "chenghuijie",
+  "license": "MIT",
+  "homepage": "https://github.com/chenghuijie/to-c",
+  "bugs": {
+    "url": "https://github.com/chenghuijie/to-c/issues"
+  },
+  "main": "index.js",
+  "dependencies": {},
+  "version": "0.0.0"
+}
