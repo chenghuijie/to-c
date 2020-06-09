@@ -12,6 +12,9 @@
     "url": "https://github.com/chenghuijie/try-3/issues"
   },
   "main": "index.js",
-  "dependencies": {},
-  "version": "1.0.0"
+  "dependencies": {
+    "try-a": "3",
+    "try-d": "3"
+  },
+  "version": "2.0.0"
 }
